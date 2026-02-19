@@ -19,5 +19,10 @@ Andres Alejandro Rodriguez
   * Guarda los datos en el programa
   * Veridica que el producto aun se pueda consumir en la fecha establecida
 
+## Salidas (Ouputs)
+ * Imprime un mensaje informando si los productos han caducado
+ * Imprime una lista de los productos que estan proximos a caducar
+
+
 
 
