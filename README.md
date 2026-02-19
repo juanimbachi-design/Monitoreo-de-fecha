@@ -19,5 +19,8 @@ Andres Alejandro Rodriguez
 ## Procesos (Throughput)
 * guarda los datos en el programa
 * verifica que el producto se pueda consumir en la fecha establecida
-*
+  
+## Salidas (Outputs)
+* imprime un mensaje si los productos han caducado
+* imprime una lista de los productos que estan proximos a caducar
 
