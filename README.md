@@ -8,3 +8,7 @@ Juan David Mosquera Imbachi
 Juan David Montengero
 Kevin Alejandro Muñoz 
 Andres Alejandro Rodriguez
+## Entradas (Inputs)
+* Productos string 
+* Tipo de producto string 
+* Fecha de vencimiento float
