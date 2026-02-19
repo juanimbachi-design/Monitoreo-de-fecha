@@ -20,3 +20,7 @@ Andres Alejandro Rodriguez
 ## Salidas (Ouputs)
  * Imprime un mensaje informando si los productos han caducado
  * Imprime una lista de los productos que estan proximos a caducar
+
+## Usuarios y roles
+* el adminisrtrador del programa
+* Solo un usuario tiene todos los permisos
