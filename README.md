@@ -15,3 +15,7 @@ Andres Alejandro Rodriguez
 * productos (string)
 * fechas de vencimiento (float)
 * tipos de productos (string)
+
+## procesos (throughput) 
+* guarda los datos en el programa 
+* verifica que el producto todavia se pueda consumir en la fecha establecida
