@@ -9,4 +9,28 @@ Juan David Montengero
 Kevin Alejandro Muñoz 
 Andres Alejandro Rodriguez
 
+# Arquitectura del sistema: monitoreo de fecha
+
+## entradas (Inputs)
+* productos (string)
+* fechas de vencimiento (float)
+* tipos de productos (string)
+
+## procesos (throughput) 
+* guarda los datos en el programa 
+* verifica que el producto todavia se pueda consumir en la fecha establecida
+  
+## salidas (outputs)
+* imprime un mensaje informando  si los productos han caducado
+* imprime una lista de los productos que estan proximos a caducar
+
+  ## Usuarios y Roles 
+* el  administrador del programa
+*  solo un usuario tiene todos los permisos
+
+  ##  Informacion Manejada
+* los productos que ya caducaron
+* mayor cantidad de productos caducados que de productos consumibles
+  
+  
 
