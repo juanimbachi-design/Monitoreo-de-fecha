@@ -28,3 +28,6 @@ Andres Alejandro Rodriguez
 *  el  administrador del programa
 *  solo un usuario tiene todos los permisos
 
+  ##  Informacion Manejada
+* los productos que ya caducaron
+* mayor cantidad de productos caducados que de productos consumibles
