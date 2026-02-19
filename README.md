@@ -15,7 +15,7 @@ Andres Alejandro Rodriguez
 ## entradas (Inputs)
 * productos (string)
 * fechas de vencimiento (float)
-* tipos de productos (string)
+* tipos de productos (string.) 
 
   
   
