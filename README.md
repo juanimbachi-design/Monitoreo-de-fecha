@@ -28,3 +28,7 @@ Andres Alejandro Rodriguez
   ## Usuarios y Roles 
 *  el  administrador del programa
 *  solo un usuario tiene todos los permisos
+  
+  ##  Informacion Manejada
+* los productos que ya caducaron
+* mayor cantidad de productos caducados que de productos cunsumibles
