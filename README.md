@@ -8,3 +8,12 @@ Juan David Mosquera Imbachi
 Juan David Montengero
 Kevin Alejandro Muñoz 
 Andres Alejandro Rodriguez
+
+# Arquitectura del sistema: Monitoreo de fecha 
+## Entradas (Inputs)
+* Productos string 
+* Tipo de producto string 
+* Fecha de vencimiento float
+
+
+
