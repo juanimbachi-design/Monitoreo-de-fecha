@@ -25,4 +25,6 @@ Andres Alejandro Rodriguez
 * imprime un mensaje informando  si los productos han caducado
 * imprime una lista de los productos que estan proximos a caducar
 
-  
+  ## Usuarios y Roles 
+*  el  administrador del programa
+*  solo un usuario tiene todos los permisos
