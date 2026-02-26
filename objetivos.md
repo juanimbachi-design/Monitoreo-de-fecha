@@ -43,5 +43,3 @@ Decisiones Estratégicas (largo plazo) porque estas decisiones que voy a present
 *Demandas
 *Cierre temporal del negocio
 
-
-Evitar la venta de productos caducados
