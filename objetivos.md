@@ -41,4 +41,26 @@ Decisiones Estratégicas (largo plazo) porque estas decisiones que voy a present
 *Multas
 *Demandas
 *Cierre temporal del negocio
+5.
+Controlar y gestionar de forma proactiva las fechas de caducidad de los productos perecederos y los no perecederos, reduciendo las perdidas de vencimiento
+y asegurando la venta de productos frescos.
 
+6.
+*Reducir las pérdidas económicas por productos vencidos en un periodo de 6 meses, mediante la implementación de un sistema de control de inventario que permita registrar fechas de caducidad y generar alertas automáticas antes del vencimiento.
+*Mejorar la gestión y rotación de inventario en un plazo de 3 meses, asegurando que el 100% de los productos cuenten con registro digital de fecha de vencimiento y seguimiento actualizado en el sistema.
+
+7.
+Seria el nivel de precision porque:
+*Se debe implementar un sistema de control de inventarios implica inversión (software, capacitación, posiblemente equipos).
+*Afecta directamente la rentabilidad del negocio (reducción de pérdidas por vencimiento).
+*Influye en la imagen y reputación de la tienda (evitar vender productos vencidos).
+*Define la dirección y modernización del negocio a largo plazo.
+
+8.
+*Registro de fecha de vencimiento: Cada producto debe ingresar al sistema con su fecha de caducidad, sin posibilidad de omitir este dato.
+*Alertas anticipadas: El sistema debe generar notificaciones antes del vencimiento (por ejemplo, 30, 15 y 7 días antes).
+*Control del inventario:Debe mostrar qué productos están próximos a vencer, vencidos y disponibles para venta.
+*Advertencia en punto de venta: Si un producto está vencido, el sistema debe impedir su venta o mostrar una alerta inmediata.
+*Reportes y estadísticas: Debe generar informes sobre pérdidas por vencimiento, rotación de productos y categorías con mayor riesgo.
+
+9.
