@@ -1,6 +1,6 @@
 1.Revisa que alimentos estan caducados para quitarlos con los productos que si estan en buena condicion y no mezclarlos con los caducados.
-2.
-Nivel Operativo (Impacto Directo y Diario) porque es el nivel más impactado.
+
+2.Nivel Operativo (Impacto Directo y Diario) porque es el nivel más impactado.
 La máquina influye en:
 * Control diario de inventario
 * Retiro de productos vencidos
@@ -8,8 +8,7 @@ La máquina influye en:
 * Cumplimiento de normas sanitarias
 * Trabajo del personal en almacén o piso de venta.
 
-3.
-Decisiones Operativas (diarias) porque estas decisiones reducen riesgos sanitarios y pérdidas económicas:
+3.Decisiones Operativas (diarias) porque estas decisiones reducen riesgos sanitarios y pérdidas económicas:
 *Retirar productos vencidos inmediatamente
 *Separar productos próximos a vencer
 *Reorganizar inventario (método PEPS / FIFO)
