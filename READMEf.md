@@ -10,7 +10,9 @@ Por qué: La base de datos con las reglas de negocio (tiempos de alerta de venci
 
 # 3. Matriz RACI: 
 Nuestra matriz contiene 4 Campos.
-<img width="724" height="487" alt="Captura de pantalla 2026-06-04 112034" src="https://github.com/user-attachments/assets/aad9ab4c-5e72-407a-bb82-fac6bdf9151f" />
+<img width="724" height="487" alt="Captura de pantalla 2026-06-04 112034" src="https://github.com/user-attachments/assets/e85ad006-19bc-4ce8-9064-fe6cec9ab68c" />
+
+
 
 
 
