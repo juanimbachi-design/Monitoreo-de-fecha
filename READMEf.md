@@ -10,11 +10,15 @@ Por qué: La base de datos con las reglas de negocio (tiempos de alerta de venci
 
 # 3. Matriz RACI: 
 Nuestra matriz contiene 4 Campos.
+<img width="724" height="487" alt="Captura de pantalla 2026-06-04 112034" src="https://github.com/user-attachments/assets/aad9ab4c-5e72-407a-bb82-fac6bdf9151f" />
 
-<img width="703" height="481" alt="Captura de pantalla 2026-05-23 182134" src="https://github.com/user-attachments/assets/b26b3fb3-9e79-4f1b-ae7f-df2d01d97451" />
 
 
 # 4. Diccionario de datos: 
+<img width="676" height="542" alt="Captura de pantalla 2026-06-04 111110" src="https://github.com/user-attachments/assets/45390122-458f-4760-b485-e14baf063370" />
+
+<img width="695" height="563" alt="Captura de pantalla 2026-06-04 111332" src="https://github.com/user-attachments/assets/822ca0a2-cb35-4cbb-9652-53bb817434f0" />
+
 
 <img width="814" height="372" alt="Captura de pantalla 2026-05-14 171144 (1)" src="https://github.com/user-attachments/assets/4b3e9e7d-a569-4cf5-a4bb-f55b2d4294b7" />
 
@@ -24,5 +28,9 @@ Nuestra matriz contiene 4 Campos.
 
 ## 2. El prototipo funncional (Logica del Sistema): 
 # TIPOS DE SI:
-<img width="2133" height="1600" alt="clasificación-del-sistema" src="https://github.com/user-attachments/assets/1d3f94a6-49c3-4ce4-afb5-467d91b0ab9c" />
+<img width="1024" height="768" alt="clasificación del sistema" src="https://github.com/user-attachments/assets/6dad4b49-7fdd-42d6-90ef-812bc4fbb354" />
+
+
+
+
 
